@@ -7,7 +7,7 @@ public class DemoTest {
 		System.out.println("Test");
 	}
 		
-		public void pushDemo() {
+		public static void pushDemo() {
 			System.out.println(" push demo two");
 		}
 		
