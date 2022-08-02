@@ -12,7 +12,7 @@ public class DemoTest {
 	}
 	 public static void pullCode(){
 
-	System.out.print(" This is for pull trial from remot repo to local repo to workspace")
+	System.out.print(" This is for pull trial from remot repo to local repo to workspace");
 	 }	
 
 	}
