@@ -7,10 +7,13 @@ public class DemoTest {
 		System.out.println("Test");
 	}
 		
-		public static void pushDemo() {
-			System.out.println(" push demo two");
-		}
-		
+	public static void pushDemo() {
+	      System.out.println(" push demo two");
+	}
+	 public static void pullCode(){
+	 
+	System.out.prinln(" This is for pull trial from remot repo to local repo to workspace")
+	 }	
 
 	}
 
